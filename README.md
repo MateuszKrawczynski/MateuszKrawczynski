@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Matixx
-- 👀 I’m interested in web development
+- 👋 Hi, I’m @MateuszKrawczynski
+- 👀 I’m interested in making software
 - 📫 How to reach me? my email is mati.krawe2@gmail.com
 
 <!---
